@@ -1,3 +1,10 @@
+####*instalaciones*
+
+pip install Django
+pip install djangorestframework
+npx create-react-app my-app
+
+
 #####*Pasos del video de react*
 Link: https://www.youtube.com/watch?v=C3UCUzPKZ9g
 
