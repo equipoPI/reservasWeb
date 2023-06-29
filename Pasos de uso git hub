@@ -1,0 +1,14 @@
+Psos para configurar git hub:
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/equipoPI/reservasWeb.git // url del repositorio
+git push -u origin main
+
+Pasos para subir nuevos cambios:
+cd (dir de la carpeta)
+git add . (añade todos los documentos/si queremos subir solo documentos especificos despues del punto colocar el nombre de los documentos)
+git commit -m "Mensaje de commit"
+git push
