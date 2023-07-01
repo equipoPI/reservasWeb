@@ -60,6 +60,14 @@ const ReservationForm = () => {
         required
       />
       <TextField
+        label="Domicilio"
+        name="home"
+        value={formData.phoneNumber}
+        onChange={handleChange}
+        fullWidth
+        required
+      />
+      <TextField
         label="Email"
         name="email"
         type="email"
